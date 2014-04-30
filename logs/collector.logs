@@ -1,0 +1,4 @@
+# Logfile created on 2014-03-24 14:25:20 +0000 by logger.rb/31641
+I, [2014-03-24T14:25:20.523088 #13357]  INFO -- : collector.started
+I, [2014-03-24T14:27:01.446243 #13382]  INFO -- : collector.started
+I, [2014-03-26T12:29:45.724828 #29906]  INFO -- : collector.started

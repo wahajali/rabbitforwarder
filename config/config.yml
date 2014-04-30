@@ -1,0 +1,12 @@
+---
+logging:
+  level: info
+  file: /home/ubuntu/rabbitcollector/logs/collector.logs
+kairos_host: http://kairosdb.ac.crcxnet.com/api/v1/datapoints
+kairos_port: 9000
+connection_pool: 1
+rabbit_host: http://10.10.15.208 
+rabbit_port: 25001
+rabbit_user: unFlmuGyEwi1O
+rabbit_pwd: pytqGuRgA4goM
+interval: 20
